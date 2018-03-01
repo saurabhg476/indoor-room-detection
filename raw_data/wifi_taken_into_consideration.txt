@@ -1,0 +1,9 @@
+['SalehMohamed', '207_1', '207_2', '207_3', 'Home-Airtel-2',
+       'manepalli', 'Home-Airtel-2_5G', 'Chandra Row3', 'EverGreen',
+       'Home-Airtel']
+
+       ['207_1', '207_3', 'Home-Airtel-2_5G', 'manepalli', 'D-Link_DIR-615',
+       'Home-Airtel-2', 'Home-Airtel', 'SalehMohamed']
+
+
+ ['207_1','SalehMohamed','207_3','Home-Airtel-2','manepalli','Home-Airtel-2_5G','Home-Airtel']
